@@ -9,7 +9,7 @@ This is a responsive, feature-rich React.js frontend demo created for the **Devi
 
 
 **Live URL**:(https://project-devify-miki.vercel.app/)
-**GitHub Repo**:(https://github.com/mikierror/Project-Devify.git)
+**GitHub Repo**:(https://github.com/mikierror/Project-Devify)
 
 ---
 
