@@ -72,7 +72,7 @@ devifyx-sticky/
 
 
 # Clone the repo
-git clone https://github.com/your-username/devifyx-sticky.git
+git clone https://github.com/mikierror/Project-Devify
 
 # Navigate into the project directory
 cd devifyx-sticky
