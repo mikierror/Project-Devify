@@ -9,7 +9,7 @@ This is a responsive, feature-rich React.js frontend demo created for the **Devi
 
 
 **Live URL**: _[Add your deployed Netlify/Vercel link here]_  
-**GitHub Repo**: _[Your GitHub link here]_
+**GitHub Repo**:(https://github.com/mikierror/Project-Devify.git)
 
 ---
 
