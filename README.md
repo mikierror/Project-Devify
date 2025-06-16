@@ -8,24 +8,23 @@ This is a responsive, feature-rich React.js frontend demo created for the **Devi
 
 
 
-**Live URL**: _[Add your deployed Netlify/Vercel link here]_  
+**Live URL**:(https://project-devify-miki.vercel.app/)
 **GitHub Repo**:(https://github.com/mikierror/Project-Devify.git)
 
 ---
 
 ## ✨ Features
 
-- ✅ **Sticky Headers:** Each section title sticks to the top while scrolling
-- ✅ **Collapsible Sections:** Expand/collapse content for better UX
-- ✅ **Smooth Scroll:** Smooth transitions when expanding or scrolling sections
-- ✅ **Dark/Light Theme Toggle:** Implemented using React Context API
-- ✅ **Draggable Theme Button:** Move the toggle button anywhere on screen
-- ✅ **Scroll Progress Indicator:** Shows how far you've scrolled through the page
-- ✅ **Back to Top Button:** Quickly return to the top with one click
-- ✅ **Responsive Design:** Works perfectly on desktop, tablet, and mobile
-- ✅ **Reusable Components:** Clean, modular code with functional components
-- ✅ **Accessible Markup:** Semantic HTML with keyboard-friendly navigation
-
+✨ Features (Updated)
+✅ Sticky Headers: Each section header sticks to the top during scroll
+✅ Collapsible Sections: Expand/collapse individual sections dynamically
+✅ Responsive Design: Fully mobile-friendly using Tailwind CSS
+✅ Smooth Scrolling: Seamless transition between sections
+✅ 🌙 Theme Toggle (via Context API): Switch between light and dark modes using React Context
+✅ Draggable Toggle Button: The theme toggle button can be repositioned anywhere on screen
+✅ Scroll Indicator: Shows scroll progress visually
+✅ Back to Top Button: Returns user to the top of the page instantly
+✅ Reusable Components & Context: Code is modular and follows modern React patterns (useState, useEffect, useContext)
 ---
 
 ## 🔧 Tech Stack
@@ -86,7 +85,9 @@ npm run dev  # if using Vite
 # or
 npm start    # if using CRA
 
+
 📝 Assignment Requirements Checklist
+
 Feature	Status
 Sticky Headers	✅
 Multiple Sections	✅
@@ -115,14 +116,4 @@ Feel free to fork this project, customize the styles, or extend it with your own
 
 Built with ❤️ using React + Tailwind
 
----
-
-### ✅ What to Do Next:
-
-1. Replace:
-   Suryansh Kaintura, `[Your GitHub link]`, `[LinkedIn]`, `[Demo URL]`, etc.
-2. Save this as `README.md` in your root folder.
-3. Push it to your GitHub repo.
-4. Deploy on Netlify or Vercel and add the live URL to the readme.
-
-Let me know if you want me to **save this directly in your project** or help deploy i
+---i
