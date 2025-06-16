@@ -33,7 +33,7 @@ export function StickySection({
         }}
       >
         <div className="flex justify-between items-center gap-4 ">
-          <h2 className="text-xl md:text-2xl lg:text-3xl font-bold p-2 py-3 h-14 rounded-md bg-gray-800 text-white w-full">
+          <h2 className="text-xl md:text-2xl lg:text-3xl font-bold p-2 px-3 py-3 h-14 rounded-md bg-gray-800 text-white w-full">
             {title}
           </h2>
           <button
