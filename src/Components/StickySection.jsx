@@ -46,8 +46,10 @@ export function StickySection({
       </div>
 
       {isOpen && (
-        <div className="mt-20 text-base md:text-xl lg:text-2xl font-medium leading-relaxed dark:text-gray-300 text-black text-start p-6 sm:p-8 lg:p-10 w-full max-w-4xl bg-gray-200 dark:bg-gray-800 rounded-md">
-          {content}
+        <div className="mt-20 text-base md:text-xl lg:text-2xl font-medium  dark:text-gray-300  h-fit text-black text-start  sm:p-8 lg:p-10 max-w-7xl bg-gray-200 dark:bg-gray-800 rounded-m ">
+          <p className="leading-loose">
+            {content}
+          </p>
         </div>
       )}
     </section>
